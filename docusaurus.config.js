@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'web-test document',
-  tagline: 'FW電子申告3 are cool',
+  tagline: 'FW電子申告4 are cool',
   url: 'https://nobori-pca.github.io',
   baseUrl: '/web-test/',
   onBrokenLinks: 'throw',
