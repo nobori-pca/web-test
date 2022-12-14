@@ -1,6 +1,6 @@
 # Website
 
-昇追記あ2
+昇追記あ2あ
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
