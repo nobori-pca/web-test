@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 仕様書 Intro
+# 仕様書 概要
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
