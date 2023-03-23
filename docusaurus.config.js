@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'FW電子申告 技術ドキュメント',
   tagline: 'テスト',
   url: 'https://nobori-pca.github.io',
-  baseUrl: '/web-test/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
